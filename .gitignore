@@ -1,0 +1,12 @@
+# Специфичные для ОС файлы
+.DS_Store
+Thumbs.db
+
+# Логи и зависимости
+*.log
+node_modules/
+venv/
+
+# Файлы сборки
+dist/
+build/
